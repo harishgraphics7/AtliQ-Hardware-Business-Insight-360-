@@ -73,6 +73,7 @@ Utilized a **Snowflake Schema** to ensure optimal performance, scalability, and 
 - Performed comprehensive **data cleaning and transformation** using **Power Query** to prepare datasets for modeling.
 - Established **logical relationships** between dimension and fact tables to support accurate data analysis.
 - Created **calculated columns and DAX measures** to derive meaningful insights and enable advanced analytics.
+![image alt](https://github.com/harishgraphics7/Excel-Atliq_Hardware_Sales_And_Finance_Performance_Report/blob/24d98b5ecaa31a54e6a957c4fe69e27d74035f30/relationship%20diagram.png)
 
 
 ## 📊 Dashboard Overview
