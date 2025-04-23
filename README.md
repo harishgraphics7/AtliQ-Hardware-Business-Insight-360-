@@ -44,23 +44,30 @@ AtliQ Hardwares is a leading and fast-growing enterprise in the electronic goods
     - Provide leadership with high-level dashboards and KPIs for quick insights
 
 
-📊 Dataset
+## 📊 Dataset
 Below is a breakdown of the datasets used for this project:
 
 Source Type	Table Name	Description
-MySQL (GDB041)	Fact_Forecast_Monthly	Forecasted demand for products by month
-MySQL (GDB041)	Fact_Sales_Monthly	Actual sales data by month
-MySQL (GDB056)	Fact_Manufacturing_Cost	Monthly manufacturing cost per product
-MySQL (GDB056)	Fact_Freight_Cost	Freight or shipping cost details
-MySQL (GDB056)	Fact_Gross_Price	Gross price assigned to products
-MySQL (GDB056)	Fact_Pre_Invoice_Deduction	Discounts or deductions before invoicing
-MySQL (GDB056)	Fact_Post_Invoice_Deduction	Discounts or deductions after invoicing
-MySQL (GDB041)	Dim_Customer	Customer master data
-MySQL (GDB041)	Dim_Product	Product master data
-MySQL (GDB041)	Dim_Market	Market and region mapping
-Excel	Target	Sales targets for comparison
-Excel	Market_Share	Competitor-wise market share data
-Excel	Operational_Expenses	Operating expenses for each region
+## 🗂️ Dataset Overview
+
+Below is a structured breakdown of the datasets utilized in this project, sourced from both MySQL databases and Excel files:
+
+| **Source Type**        | **Table Name**                    | **Description**                                             |
+|------------------------|-----------------------------------|-------------------------------------------------------------|
+| MySQL (GDB041)         | `Fact_Forecast_Monthly`           | Forecasted product demand by month                         |
+| MySQL (GDB041)         | `Fact_Sales_Monthly`              | Actual monthly sales data                                  |
+| MySQL (GDB056)         | `Fact_Manufacturing_Cost`         | Monthly manufacturing cost per product                     |
+| MySQL (GDB056)         | `Fact_Freight_Cost`               | Freight and shipping cost details                          |
+| MySQL (GDB056)         | `Fact_Gross_Price`                | Gross prices assigned to products                          |
+| MySQL (GDB056)         | `Fact_Pre_Invoice_Deduction`      | Pre-invoice discounts and deductions                       |
+| MySQL (GDB056)         | `Fact_Post_Invoice_Deduction`     | Post-invoice discounts and deductions                      |
+| MySQL (GDB041)         | `Dim_Customer`                    | Customer master data                                       |
+| MySQL (GDB041)         | `Dim_Product`                     | Product master data                                        |
+| MySQL (GDB041)         | `Dim_Market`                      | Market and regional mapping                                |
+| Excel                  | `Target`                          | Sales targets used for performance benchmarking            |
+| Excel                  | `Market_Share`                    | Competitor-wise market share data                          |
+| Excel                  | `Operational_Expenses`            | Regional operating expense details                         |
+
 
 ## 🧩 Data Modeling
 
@@ -80,27 +87,27 @@ Utilized a **Snowflake Schema** to ensure optimal performance, scalability, and 
 
 The Power BI dashboard is composed of six distinct pages, each designed to provide insights into a specific business domain:
 
-1. **Home Page** – Serves as a navigation hub, utilizing bookmarks for seamless page transitions.
+🏠 **Home Page** – Serves as a navigation hub, utilizing bookmarks for seamless page transitions.
 ![image alt](https://github.com/harishgraphics7/AtliQ-Hardware-Business-Insight-360-/blob/main/HOME%20VIEW.png)
 
 
-**Finance Dashboard** – Displays profit & loss statements, product-wise profitability, and sales trends.
+💰 **Finance Dashboard** – Displays profit & loss statements, product-wise profitability, and sales trends.
 ![image alt](https://github.com/harishgraphics7/AtliQ-Hardware-Business-Insight-360-/blob/main/FINANCE%20VIEW.png)
 
 
-**Sales Dashboard** – Analyzes customer and product performance metrics.
+📈 **Sales Dashboard** – Analyzes customer and product performance metrics.
 ![image alt](https://github.com/harishgraphics7/AtliQ-Hardware-Business-Insight-360-/blob/main/SALES%20VIEW.png)
 
 
-**Marketing Dashboard** – Showcases segment-wise profitability and campaign insights.
+📣 **Marketing Dashboard** – Showcases segment-wise profitability and campaign insights.
 ![image alt](https://github.com/harishgraphics7/AtliQ-Hardware-Business-Insight-360-/blob/main/MARKETING%20VIEW.png)
 
 
-**Supply Chain Dashboard** – Highlights forecast accuracy and operational KPIs.
+🚚 **Supply Chain Dashboard** – Highlights forecast accuracy and operational KPIs.
 ![image alt](https://github.com/harishgraphics7/AtliQ-Hardware-Business-Insight-360-/blob/d3f611f9a541be874d1ffeb42e939f52f027ff6e/SUPPLY%20CHAIN%20VIEW.png)
 
 
-**Executive Summary** – Presents high-level metrics and key performance indicators for leadership review.
+🧑‍💼 **Executive Summary** – Presents high-level metrics and key performance indicators for leadership review.
 ![image alt](https://github.com/harishgraphics7/AtliQ-Hardware-Business-Insight-360-/blob/main/EXECUTIVE%20VIEW.png)
 
 ## 💡 Key Insights
