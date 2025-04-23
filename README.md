@@ -89,7 +89,7 @@ The Power BI dashboard is composed of six distinct pages, each designed to provi
 **Marketing Dashboard** – Showcases segment-wise profitability and campaign insights.
 ![image alt](https://github.com/harishgraphics7/AtliQ-Hardware-Business-Insight-360-/blob/main/MARKETING%20VIEW.png)
 **Supply Chain Dashboard** – Highlights forecast accuracy and operational KPIs.
-![image alt]()
+![image alt](https://github.com/harishgraphics7/AtliQ-Hardware-Business-Insight-360-/blob/d3f611f9a541be874d1ffeb42e939f52f027ff6e/SUPPLY%20CHAIN%20VIEW.png)
 **Executive Summary** – Presents high-level metrics and key performance indicators for leadership review.
 ![image alt](https://github.com/harishgraphics7/AtliQ-Hardware-Business-Insight-360-/blob/main/EXECUTIVE%20VIEW.png)
 
