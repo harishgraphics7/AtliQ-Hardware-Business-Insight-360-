@@ -82,16 +82,104 @@ The Power BI dashboard is composed of six distinct pages, each designed to provi
 
 1. **Home Page** – Serves as a navigation hub, utilizing bookmarks for seamless page transitions.
 ![image alt](https://github.com/harishgraphics7/AtliQ-Hardware-Business-Insight-360-/blob/main/HOME%20VIEW.png)
+
+
 **Finance Dashboard** – Displays profit & loss statements, product-wise profitability, and sales trends.
 ![image alt](https://github.com/harishgraphics7/AtliQ-Hardware-Business-Insight-360-/blob/main/FINANCE%20VIEW.png)
+
+
 **Sales Dashboard** – Analyzes customer and product performance metrics.
 ![image alt](https://github.com/harishgraphics7/AtliQ-Hardware-Business-Insight-360-/blob/main/SALES%20VIEW.png)
+
+
 **Marketing Dashboard** – Showcases segment-wise profitability and campaign insights.
 ![image alt](https://github.com/harishgraphics7/AtliQ-Hardware-Business-Insight-360-/blob/main/MARKETING%20VIEW.png)
+
+
 **Supply Chain Dashboard** – Highlights forecast accuracy and operational KPIs.
 ![image alt](https://github.com/harishgraphics7/AtliQ-Hardware-Business-Insight-360-/blob/d3f611f9a541be874d1ffeb42e939f52f027ff6e/SUPPLY%20CHAIN%20VIEW.png)
+
+
 **Executive Summary** – Presents high-level metrics and key performance indicators for leadership review.
 ![image alt](https://github.com/harishgraphics7/AtliQ-Hardware-Business-Insight-360-/blob/main/EXECUTIVE%20VIEW.png)
 
+## 💡 Key Insights
+
+- **Finance View**:  
+  Although sales are on an upward trend, net profit is declining—indicating a need for improved **expense management** and cost optimization.
+
+- **Sales View**:  
+  Major revenue contributors include key accounts such as **Amazon** and **Flipkart**, while smaller accounts are underperforming and require strategic attention.
+
+- **Marketing View**:  
+  **Margin inefficiencies** are evident across specific products and regions, particularly in the **Gaming category** and the **APAC region**. Focused marketing and pricing strategies are recommended.
+
+- **Supply Chain View**:  
+  **Forecast accuracy** remains reasonable; however, inventory challenges persist in regions like **LATAM** and **India**, affecting supply continuity and service levels.
+
+- **Executive View**:  
+  While **market share** is increasing, **profitability is under pressure**. Notable growth potential exists in the **PC segment** and regions such as **North America (NA)** and **India**.
+
+
+## ⚙️ Challenges & 📘 Learnings
+
+### 🔴 Challenges
+
+1. **Handling Duplicate Subzones**  
+   Encountered issues with duplicate subzone values in the *Market Share* and *Dim Market* tables, leading to inaccurate calculations and inconsistencies in the data model.
+
+2. **DAX Calculations for Market Share**  
+   Writing accurate DAX measures for market share was challenging. Initial formulas returned identical values across all subzones due to data model configuration issues.
+
+3. **Data Cleaning and Transformation**  
+   Managing large datasets with missing or inconsistent values was time-intensive, especially when dealing with multiple interconnected tables.
+
+---
+
+### ✅ Learnings
+
+1. **Resolving Many-to-Many Relationships**  
+   Gained practical experience in managing many-to-many relationships using **reference tables** and DAX functions like `ALLNOBLANKROW` to maintain calculation accuracy.
+
+2. **Mastering DAX for Metrics**  
+   Enhanced skills in crafting complex **DAX formulas** and understanding how minor syntax variations can significantly impact analytical results.
+
+3. **Importance of Data Cleaning**  
+   Recognized the critical role of systematic **data cleaning** in ensuring model consistency and the reliability of insights.
+
+4. **Power BI Data Modeling**  
+   Learned best practices for designing structured, scalable **data models** in Power BI to improve performance and dashboard responsiveness.
+
+5. **Reporting with Excel and Power BI**  
+   Developed the ability to create intuitive, **user-friendly reports** using both Excel and Power BI to effectively communicate trends and key business metrics.
+
+## ✅ Strategic Recommendations
+
+- **Optimize Operational Efficiency**:  
+  Reduce operational and freight-related expenditures to enhance overall **profit margins**.
+
+- **Strengthen Key Account Management**:  
+  Prioritize investment in **high-performing accounts** (e.g., Amazon, Flipkart), while reassessing engagement strategies for underperforming clients.
+
+- **Refine Marketing Strategies**:  
+  **Reallocate marketing spend** to high-performing regions and product segments; implement cost controls in regions showing suboptimal returns.
+
+- **Enhance Supply Chain Planning**:  
+  Improve **demand forecasting** accuracy and streamline inventory management to minimize stockouts and excess inventory.
+
+- **Portfolio Rationalization**:  
+  Phase out **low-performing products** and strategically focus on **high-growth markets** and categories, such as PCs and emerging regions.
+
+## 🧾 Conclusion
+
+This project successfully transformed fragmented and unstructured data into meaningful, **actionable insights**, empowering AtliQ to transition from assumption-based decision-making to a **data-driven strategic approach**. The integration of Power BI enabled enhanced visibility across departments, supporting informed, agile, and impactful business decisions.
+
+## Useful Links
+- Project Presentation
+- Dashboard Preview
+- Live Dashboard
+
+## 🙏 Acknowledgment
+This project is part of CodeBasics Data Analytics Bootcamp's Power BI course.
 
   
