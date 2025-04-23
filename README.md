@@ -8,12 +8,12 @@ AtliQ Hardwares is a leading and fast-growing enterprise in the electronic goods
 * [Datasets Overview](https://github.com/harishgraphics7/AtliQ-Hardware-Business-Insight-360-/blob/main/README.md#-dataset)
 * [Data Modeling](https://github.com/harishgraphics7/AtliQ-Hardware-Business-Insight-360-/blob/main/README.md#-data-modeling)
 * [Dashboard Overview](https://github.com/harishgraphics7/AtliQ-Hardware-Business-Insight-360-/blob/main/README.md#-dashboard-overview)
-* [Key Insights](https://github.com/harishgraphics7/AtliQ-Hardware-Business-Insight-360-/blob/main/README.md#-key-insights)
-* [Challenges and Learnings](https://github.com/harishgraphics7/AtliQ-Hardware-Business-Insight-360-/blob/main/README.md#-key-insights)
-* [Strategic Recommendations](https://github.com/harishgraphics7/AtliQ-Hardware-Business-Insight-360-/blob/main/README.md#-key-insights)
-* [Conclusion]()
-* [Useful Links]()
-* [Acknowledgement](https://github.com/harishgraphics7/AtliQ-Hardware-Business-Insight-360-/blob/main/README.md#-key-insights)
+* [Key Insights]()
+* [Challenges and Learnings]()
+* [Strategic Recommendations]()
+* [Conclusion](https://github.com/harishgraphics7/AtliQ-Hardware-Business-Insight-360-/blob/main/README.md#-conclusion)
+* [Useful Links](https://github.com/harishgraphics7/AtliQ-Hardware-Business-Insight-360-/blob/main/README.md#useful-links)
+* [Acknowledgement](https://github.com/harishgraphics7/AtliQ-Hardware-Business-Insight-360-/blob/main/README.md#-acknowledgment)
 
 ## ❓ Problem Statement
 * AtliQ relied on Excel and assumption-based decision-making, which led to poor outcomes, especially in the Latin American market.
