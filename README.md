@@ -204,7 +204,7 @@ This project successfully transformed fragmented and unstructured data into mean
 ## Useful Links
 - Project Presentation
 - Dashboard Preview
-- Live Dashboard
+- [Live Dashboard](https://app.powerbi.com/groups/me/reports/63307588-e4ed-45be-ac55-b594437400a4?experience=power-bi)
 
 ## 🙏 Acknowledgment
 This project is part of CodeBasics Data Analytics Bootcamp's Power BI course.
