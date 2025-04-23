@@ -87,28 +87,48 @@ Utilized a **Snowflake Schema** to ensure optimal performance, scalability, and 
 
 The Power BI dashboard is composed of six distinct pages, each designed to provide insights into a specific business domain:
 
+
+
 🏠 **Home Page** – Serves as a navigation hub, utilizing bookmarks for seamless page transitions.
+
 ![image alt](https://github.com/harishgraphics7/AtliQ-Hardware-Business-Insight-360-/blob/main/HOME%20VIEW.png)
 
 
+
+
 💰 **Finance Dashboard** – Displays profit & loss statements, product-wise profitability, and sales trends.
+
 ![image alt](https://github.com/harishgraphics7/AtliQ-Hardware-Business-Insight-360-/blob/main/FINANCE%20VIEW.png)
 
 
+
+
 📈 **Sales Dashboard** – Analyzes customer and product performance metrics.
+
 ![image alt](https://github.com/harishgraphics7/AtliQ-Hardware-Business-Insight-360-/blob/main/SALES%20VIEW.png)
 
 
+
+
 📣 **Marketing Dashboard** – Showcases segment-wise profitability and campaign insights.
+
 ![image alt](https://github.com/harishgraphics7/AtliQ-Hardware-Business-Insight-360-/blob/main/MARKETING%20VIEW.png)
 
 
+
+
 🚚 **Supply Chain Dashboard** – Highlights forecast accuracy and operational KPIs.
+
 ![image alt](https://github.com/harishgraphics7/AtliQ-Hardware-Business-Insight-360-/blob/d3f611f9a541be874d1ffeb42e939f52f027ff6e/SUPPLY%20CHAIN%20VIEW.png)
 
 
+
+
 🧑‍💼 **Executive Summary** – Presents high-level metrics and key performance indicators for leadership review.
+
 ![image alt](https://github.com/harishgraphics7/AtliQ-Hardware-Business-Insight-360-/blob/main/EXECUTIVE%20VIEW.png)
+
+
 
 ## 💡 Key Insights
 
