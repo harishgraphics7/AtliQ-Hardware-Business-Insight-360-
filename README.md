@@ -3,16 +3,17 @@
 AtliQ Hardwares is a leading and fast-growing enterprise in the electronic goods sector, specializing in the design and distribution of high-performance PCs, keyboards, mice, and printers. With a strong commitment to quality, innovation, and customer-centricity, we cater to a diverse clientele across both consumer and business segments. Our product portfolio is engineered to deliver reliability, efficiency, and cutting-edge technology—positioning AtliQ Hardwares as a trusted partner in the evolving digital ecosystem
 
 ## Table of Contents
-* Project Overview
 * Problem Statement
 * Objectives
-* Datasets Used
+* Datasets Overview
 * Data Modeling
 * Dashboard Overview
-* Power BI Techniques Learned
-* Key Business Metrics and Insights
+* Key Insights
 * Challenges and Learnings
-* Conclusion and Future Scope
+* Strategic Recommendations
+* Conclusion
+* Useful Links
+* Acknowledgement
 
 ## ❓ Problem Statement
 * AtliQ relied on Excel and assumption-based decision-making, which led to poor outcomes, especially in the Latin American market.
