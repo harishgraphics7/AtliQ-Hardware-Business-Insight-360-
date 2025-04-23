@@ -73,7 +73,7 @@ Utilized a **Snowflake Schema** to ensure optimal performance, scalability, and 
 - Performed comprehensive **data cleaning and transformation** using **Power Query** to prepare datasets for modeling.
 - Established **logical relationships** between dimension and fact tables to support accurate data analysis.
 - Created **calculated columns and DAX measures** to derive meaningful insights and enable advanced analytics.
-![image alt](https://github.com/harishgraphics7/Excel-Atliq_Hardware_Sales_And_Finance_Performance_Report/blob/24d98b5ecaa31a54e6a957c4fe69e27d74035f30/relationship%20diagram.png)
+![image alt](https://github.com/harishgraphics7/AtliQ-Hardware-Business-Insight-360-/blob/main/SCHEMA.png)
 
 
 ## 📊 Dashboard Overview
@@ -81,6 +81,17 @@ Utilized a **Snowflake Schema** to ensure optimal performance, scalability, and 
 The Power BI dashboard is composed of six distinct pages, each designed to provide insights into a specific business domain:
 
 1. **Home Page** – Serves as a navigation hub, utilizing bookmarks for seamless page transitions.
+![image alt](https://github.com/harishgraphics7/AtliQ-Hardware-Business-Insight-360-/blob/main/HOME%20VIEW.png)
+**Finance Dashboard** – Displays profit & loss statements, product-wise profitability, and sales trends.
+![image alt](https://github.com/harishgraphics7/AtliQ-Hardware-Business-Insight-360-/blob/main/FINANCE%20VIEW.png)
+**Sales Dashboard** – Analyzes customer and product performance metrics.
+![image alt](https://github.com/harishgraphics7/AtliQ-Hardware-Business-Insight-360-/blob/main/SALES%20VIEW.png)
+**Marketing Dashboard** – Showcases segment-wise profitability and campaign insights.
+![image alt](https://github.com/harishgraphics7/AtliQ-Hardware-Business-Insight-360-/blob/main/MARKETING%20VIEW.png)
+**Supply Chain Dashboard** – Highlights forecast accuracy and operational KPIs.
+![image alt]()
+**Executive Summary** – Presents high-level metrics and key performance indicators for leadership review.
+![image alt](https://github.com/harishgraphics7/AtliQ-Hardware-Business-Insight-360-/blob/main/EXECUTIVE%20VIEW.png)
 
 
   
