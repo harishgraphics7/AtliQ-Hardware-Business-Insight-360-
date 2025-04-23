@@ -203,7 +203,7 @@ This project successfully transformed fragmented and unstructured data into mean
 
 ## Useful Links
 - Project Presentation
-- Dashboard Preview
+- [Dashboard Preview](https://github.com/harishgraphics7/AtliQ-Hardware-Business-Insight-360-/blob/main/AtliQ%20Hardware%20BI%20360.pdf)
 - [Live Dashboard](https://app.powerbi.com/groups/me/reports/63307588-e4ed-45be-ac55-b594437400a4?experience=power-bi)
 
 ## 🙏 Acknowledgment
